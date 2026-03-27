@@ -1,3 +1,12 @@
+load alldata.mat
+load alldataANDtime.mat
+load tankdata.mat
+load tankdatany6V.mat
+
+
+
+
+
 V = [2; 3; 4; 5; 6; 7];
 H = [0.5; 1.5; 3.8; 6.5; 9.1; 12.2];
 M = [0.33; 0.9; 2.14; 3.64; 5.11; 6.9];
